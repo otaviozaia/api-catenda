@@ -10,7 +10,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.1
 cryptography==2.3.1
-Django==2.0.3
+Django==2.2.10
 Flask==1.0.2
 future==0.17.1
 google-api-python-client==1.7.6
